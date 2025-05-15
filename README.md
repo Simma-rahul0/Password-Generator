@@ -27,14 +27,6 @@ A visually stunning and beginner-friendly **password generator** built using **H
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://i.imgur.com/5tZ4ZnA.png" width="400" alt="UI preview"/>
-</p>
-
----
-
 ## 📦 How to Use
 
 1. Clone or download the repository:
